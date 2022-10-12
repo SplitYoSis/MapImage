@@ -1,0 +1,10 @@
+name: MapImage
+version: '${project.version}'
+main: dev.splityosis.mapimage.Main
+authors: [ SplitYoSis ]
+description: put images on maps
+
+commands:
+  mapimage:
+    aliases:
+      - image
